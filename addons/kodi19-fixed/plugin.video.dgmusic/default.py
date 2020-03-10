@@ -23,12 +23,13 @@ import sys
 import xbmcaddon, xbmcgui, xbmcplugin
 
 # Plugin Info
-ADDON_ID      = 'plugin.video.classicrockcolection'
+ADDON_ID      = 'plugin.video.dgmusic'
 REAL_SETTINGS = xbmcaddon.Addon(id=ADDON_ID)
 ADDON_NAME    = REAL_SETTINGS.getAddonInfo('name')
 ICON          = REAL_SETTINGS.getAddonInfo('icon')
 FANART        = REAL_SETTINGS.getAddonInfo('fanart')
-YOUTUBE_CHANNEL_ID1 = "playlist/PLNxOe-buLm6cz8UQ-hyG1nm3RTNBUBv3K"
+YOUTUBE_CHANNEL_ID1=  "channel/UCSaA6mYufDDdMT2b84K8gVg"
+
 
 def addDir(title, url):
     liz=xbmcgui.ListItem(title)
@@ -38,5 +39,5 @@ def addDir(title, url):
     xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]),url=url,listitem=liz,isFolder=True)
     
 if __name__ == '__main__':
-    addDir(title = "Classic Rock Collection",url = "plugin://plugin.video.youtube/"+YOUTUBE_CHANNEL_ID1+"/")
+    addDir(title="DG Music"            , url="plugin://plugin.video.youtube/"+YOUTUBE_CHANNEL_ID1+"/")
     xbmcplugin.endOfDirectory(int(sys.argv[1]),cacheToDisc=True)
