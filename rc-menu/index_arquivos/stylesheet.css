@@ -4,7 +4,7 @@ col
 	{mso-width-source:auto;}
 br
 	{mso-data-placement:same-cell;}
-.style57
+.style62
 	{color:#0563C1;
 	font-size:11.0pt;
 	font-weight:400;
@@ -74,17 +74,21 @@ td
 	mso-rotate:0;}
 .xl65
 	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:center;}
+.xl66
+	{mso-style-parent:style0;
 	background:#262626;
 	mso-pattern:black none;}
-.xl66
+.xl67
 	{mso-style-parent:style0;
 	color:white;
 	font-size:16.0pt;
 	text-align:center;
 	background:#262626;
 	mso-pattern:black none;}
-.xl67
-	{mso-style-parent:style57;
+.xl68
+	{mso-style-parent:style62;
 	color:white;
 	font-size:16.0pt;
 	text-decoration:underline;
@@ -92,22 +96,23 @@ td
 	text-align:center;
 	background:#262626;
 	mso-pattern:black none;}
-.xl68
-	{mso-style-parent:style0;
-	text-align:center;}
 .xl69
-	{mso-style-parent:style57;
+	{mso-style-parent:style62;
 	color:#0563C1;
 	text-decoration:underline;
 	text-underline-style:single;}
 .xl70
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl71
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:none;
 	border-right:none;
 	border-bottom:.5pt solid windowtext;
 	border-left:none;}
-.xl71
+.xl72
 	{mso-style-parent:style0;
-	font-weight:700;
-	text-align:center;}
+	text-align:center;
+	background:black;
+	mso-pattern:black none;}
