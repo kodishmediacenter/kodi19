@@ -1,0 +1,9 @@
+<builds>
+<build name="Best TheVoice">
+<version>KDS1.0</version>
+<url>https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/plugin.video.bestthevoice.zip</url>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/icon-bestthevoice.png</icon>
+<fanart>http://cf368ff.online-server.cloud/lockdown/zips/fanart.jpg</fanart>
+<description>Melhores Musicas do The Voice pelo mundo todo</description>
+</build>
+</builds>
