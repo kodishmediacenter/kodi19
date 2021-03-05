@@ -1,0 +1,16 @@
+<channels></channels>
+<channel>
+<name>Kiss FM</name>
+<thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
+
+
+<item>
+<title>Kiss FM</title>
+<radio>https://cloud2.cdnseguro.com:20000/stream</radio>
+<thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: O Falsificador Mórmon é o primeiro retrato completo de um dos crimes mais chocantes que já aconteceram na comunidade mórmon e da mente criminosa por trás de tudo. A minissérie documental em três partes tem direção de Jared Hess (Napoleon Dynamite) e Tyler Measom (An Honest Liar), e investiga três atentados a bomba que mataram duas pessoas e alarmaram Salt Lake City em 1985. Após os crimes, a comunidade ficou ainda mais surpresa quando uma coleção de cartas e diários mórmons antigos foram encontrados destruídos no carro da terceira vítima, um renomado colecionador de documentos raros chamado Mark Hofmann, incluindo a Carta da Salamandra, cujo conteúdo poderia abalar as fundações do mormonismo. E enquanto Hofmann lutava pela vida, os investigadores corriam para descobrir a verdade.					
+</info>
+</item>
+</channel>
