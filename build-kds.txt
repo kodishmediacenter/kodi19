@@ -16,7 +16,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"teste"
+</builds>
 
 <builds>
 <build name="Clube das Winx">
@@ -26,7 +26,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Clube das Winx"
+</builds>
 
 <builds>
 <build name="Blackarrow radiopt [KodishFlechaNegra]">>
@@ -36,7 +36,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Black Arrow"
+</builds>
 
 <builds>
 <build name="Magus [MagusYay]">>
@@ -46,7 +46,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Addon muito familia"
+</builds>
 
 <builds>
 <build name="Gaviao Play [Wilson]">>
@@ -56,7 +56,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Lightworkers">
@@ -66,7 +66,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="TV A Critica">
@@ -76,7 +76,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Chillout">
@@ -86,7 +86,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Domisum Replay">
@@ -96,7 +96,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="DocUfo">
@@ -106,7 +106,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Vix Tv">
@@ -116,7 +116,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Gaming Mix Nation">
@@ -126,8 +126,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
-
+</builds>
 
 <builds>
 <build name="AnimalTv">
@@ -137,7 +136,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Tecmundo">
@@ -147,7 +146,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="NTD Portugues">
@@ -157,7 +156,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Cine Series[PauloJr]">>
@@ -167,7 +166,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Cine Filmes[PauloJr]">>
@@ -177,7 +176,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+</builds>
 
 
 
@@ -189,7 +188,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+</builds>
 
 <builds>
 <build name="Clube da Meditacao [New]">>
@@ -199,7 +198,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+</builds>
 
 
 <builds>
@@ -220,7 +219,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessita ter Service Pack Instalado"
+</builds>
 
 <builds>
 <build name="Tecnolar [Kodishteam]">>
@@ -230,7 +229,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessario aplicar fix seguido http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="AndreGuedes [Kodishteam]">>
@@ -240,7 +239,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Necessario aplicar fix seguido http://kodishteam.space/fix"
+</builds>
 
 <builds>
 <build name="Corujinha SP [KodishTeam]">>
@@ -250,7 +249,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+</builds>
 
 <builds>
 <build name="Radio Cat Osasco">
@@ -260,7 +259,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+</builds>
 
 <builds>
 <build name="FDJ [FDJ]">>
@@ -270,7 +269,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"nnnn"
+</builds>
 
 <builds>
 <build name="Orbital [Iberika]">>
@@ -280,7 +279,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"nnnn"
+</builds>
 
 <builds>
 <build name="Dumont Fm">
@@ -290,7 +289,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"nnnn"
+</builds>
 
 <builds>
 <build name="Now[Catoal]">>
@@ -300,7 +299,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"nnnn"
+</builds>
 
 <builds>
 <build name="Cine Antiqua[Garfield]">
@@ -310,17 +309,8 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Cine Antiqua - filmes clássicos"
+</builds>
 
-<builds>
-<build name="NewSupremo [will]">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18042020/plugin.video.newsupremo.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-newsupremo.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
-</builds>"Necessita ter Elementum ou Elementum Drive"
 
 <builds>
 <build name="Circulo [DjGarfield]">
@@ -330,7 +320,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Esse canal é top"
+</builds>
 
 
 <builds>
@@ -341,7 +331,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Esse addon e uma homenagem maior ucolecionador acessorios do mundo"
+</builds>
 
 <builds>
 <build name="Musica para Pets [Garfield]">
@@ -351,7 +341,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Red Music[Kodish]">
@@ -361,7 +351,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"ok"
+</builds>
 
 <builds>
 <build name="Brain Drain [Rock]">
@@ -371,7 +361,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Crime Scene [Rock]">
@@ -381,7 +371,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Xtasy D [XtasyDreamer]">
@@ -391,7 +381,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Ruivo[New]">
@@ -401,7 +391,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="RSA Music[New]">
@@ -411,7 +401,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Gospel Colection [New]">
@@ -421,7 +411,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Ser Eletrecista[New]">
@@ -431,7 +421,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Rock Clasico Colection[New]">
@@ -441,7 +431,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="DG Music [NEW]">
@@ -451,7 +441,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Love Music [NEW]">
@@ -461,7 +451,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Obin Music"
@@ -471,7 +461,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Kpop Colection [New]">
@@ -481,7 +471,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Defenestrando Jogos [New]">
@@ -490,7 +480,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Cancao Nova [New]">
@@ -500,7 +490,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Discovery Snacks [New Kodish]">
@@ -510,7 +500,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Coleção CDs Gregoriano [New Kodish]">
@@ -520,7 +510,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Espiritismo [New]">
@@ -530,7 +520,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Musica Classica [Kodish]">
@@ -550,7 +540,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Acelerados">
@@ -560,7 +550,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Autoesporte">
@@ -570,7 +560,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Band News">
@@ -580,7 +570,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="BBC Brasil">
@@ -590,7 +580,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Jovem Pan">
@@ -600,7 +590,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Me Poupe">
@@ -610,7 +600,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Pica-Pau Oficial">
@@ -620,7 +610,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Poligonautas">
@@ -630,7 +620,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Ponto Karaoke">
@@ -640,7 +630,7 @@
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 
 <builds>
@@ -651,7 +641,7 @@
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 ame="Classic Rock Colection [New]">
 <url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/30102018/plugin.video.classicrockcolection.zip</url>
@@ -660,7 +650,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Turma da Monica[New]">
@@ -670,7 +660,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="DesenhosJr[JonyRocha]">
@@ -680,7 +670,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 
 
@@ -692,7 +682,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Prankstation[KodishTeam]">
@@ -702,7 +692,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="ValeAPenaVerDeNovo[AutourAnon]">
@@ -712,7 +702,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Velhos Tempos [SergioGracas]">
@@ -722,7 +712,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Ign Brasil[New]">
@@ -732,7 +722,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Country Box (New)"
@@ -742,7 +732,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Star Vs Forças do Mal[New]">
@@ -752,7 +742,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Vr Livre [SergioGraca]">
@@ -762,7 +752,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Ultimate Classic Rock [New Freeworld]">
@@ -772,7 +762,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Esse Apk somente para menbros grupo vip"
+</builds>
 
 <builds>
 <build name="History Channel [New]">
@@ -782,7 +772,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Canal da biblia [New]">
@@ -792,7 +782,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="History Channel [New]">
@@ -802,7 +792,7 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
 
 <builds>
 <build name="Canal da biblia [New]">
@@ -812,4 +802,4 @@ ame="Classic Rock Colection [New]">
 <fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 <description>Melhores addons é aqui</description>
 </build>
-</builds>"Não necessidade de fresh start"
+</builds>
