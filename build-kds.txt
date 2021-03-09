@@ -8,7 +8,7 @@
 	<description>Melhores addons é aqui</description>
 	</build>
 	
-	<build name="Clube das Winx">
+	<build name="Clube_das_Winx">
 	<version>KODI 19</version>
 	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.clubwinxs.zip</url>
 	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-clubwinxs.jpg</icon>
