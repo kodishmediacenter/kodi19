@@ -1,122 +1,162 @@
 <builds>
-
-<build name="Radio Tops">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
-
-
-
-<build name="Trato Feito">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.tratofeito.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-tratofeito.jpg</fanart>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Radio Tops">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Clube das Winx">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.clubwinxs.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-clubwinxs.jpg</fanart>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Trato Feito">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.tratofeito.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-tratofeito.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Blackarrow radiopt">>
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.blackarrowradiopt.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-blackarrowradiopt.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Clube das Winx">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.clubwinxs.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-clubwinxs.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Magus">>
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18012021/plugin.video.magusplay.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18012021/icon-magusplay.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Blackarrow radiopt">>
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.blackarrowradiopt.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-blackarrowradiopt.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Gaviao Play">>
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/01042020/plugin.video.GAVIAOPLAY.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Magus">>
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18012021/plugin.video.magusplay.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18012021/icon-magusplay.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Lightworkers">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.Lightworkers.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-Lightworkers.jpg</fanart>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Gaviao Play">>
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/01042020/plugin.video.GAVIAOPLAY.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="TV A Critica">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.videoTvACritica.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-TvACritica.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Lightworkers">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.Lightworkers.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-Lightworkers.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Chillout">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.chillout.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-chillout.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="TV A Critica">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.videoTvACritica.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-TvACritica.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Domisum Replay">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.domisumReplay.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-domisumReplay.jpg</fanart>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Chillout">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.chillout.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-chillout.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="DocUfo">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20112020/plugin.video.DocUfo.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="Domisum Replay">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.domisumReplay.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-domisumReplay.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
 
 
 
-<build name="Vix Tv">
-<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.vixlaucher.zip</url>
-<version>KODI 19</version>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-vixlaucher.png</icon>
-<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-<description>Melhores addons é aqui</description>
-</build>
+	<build name="DocUfo">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20112020/plugin.video.DocUfo.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
+
+
+	<build name="Vix Tv">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.vixlaucher.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-vixlaucher.png</icon>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
+
+
+	<build name="Gaming Mix Nation">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20112020/plugin.video.gamingmixnation.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-gamingmixnation.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
+
+
+	<build name="AnimalTv">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.animaltv.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-animaltv.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
+
+
+	<build name="Tecmundo">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.tecmundo.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-tecmundo.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
+
+
+	<build name="NTD Portugues">
+	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.ntdportugues.zip</url>
+	<version>KODI 19</version>
+	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-ntdportugues.jpg</fanart>
+	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+	<description>Melhores addons é aqui</description>
+	</build>
+
 
 
 
