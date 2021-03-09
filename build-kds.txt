@@ -1,5 +1,5 @@
 <builds>
-<build name="Radio Tops [New]">>
+<build name="Radio Tops [New]">
 <url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
 <version>KODI 19</version>
 <icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png</icon>
