@@ -1,9 +1,815 @@
 <builds>
-<build name="Best TheVoice">
-<version>KDS1.0</version>
-<url>https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/plugin.video.bestthevoice.zip</url>
-<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/22022021/icon-bestthevoice.png</icon>
-<fanart>http://cf368ff.online-server.cloud/lockdown/zips/fanart.jpg</fanart>
-<description>Melhores Musicas do The Voice pelo mundo todo</description>
+<build name="Radio Tops [New]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
 </build>
 </builds>
+
+<builds>
+<build name="Trato Feito">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.tratofeito.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-tratofeito.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"teste"
+
+<builds>
+<build name="Clube das Winx">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.clubwinxs.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-clubwinxs.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Clube das Winx"
+
+<builds>
+<build name="Blackarrow radiopt [KodishFlechaNegra]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.blackarrowradiopt.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-blackarrowradiopt.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Black Arrow"
+
+<builds>
+<build name="Magus [MagusYay]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18012021/plugin.video.magusplay.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18012021/icon-magusplay.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Addon muito familia"
+
+<builds>
+<build name="Gaviao Play [Wilson]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/01042020/plugin.video.GAVIAOPLAY.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Lightworkers">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.Lightworkers.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-Lightworkers.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="TV A Critica">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.videoTvACritica.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-TvACritica.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Chillout">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.chillout.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-chillout.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Domisum Replay">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.domisumReplay.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12122020/icon-domisumReplay.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="DocUfo">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20112020/plugin.video.DocUfo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-DocUfo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Vix Tv">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12122020/plugin.video.vixlaucher.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-vixlaucher.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Gaming Mix Nation">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20112020/plugin.video.gamingmixnation.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20112020/icon-gamingmixnation.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+
+<builds>
+<build name="AnimalTv">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.animaltv.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-animaltv.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Tecmundo">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.tecmundo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-tecmundo.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="NTD Portugues">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.ntdportugues.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-ntdportugues.jpg</fanart>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Cine Series[PauloJr]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.cine-series-3.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-series-3.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+<builds>
+<build name="Cine Filmes[PauloJr]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14112020/plugin.video.cine-vianna.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14112020/icon-cine-vianna.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita do Fix para Instalar no Kodi 18/19 http://kodishteam.space/fix"
+
+
+
+<builds>
+<build name="Miracle Music [New]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14102020/plugin.video.MiracleMusic.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-MiracleMusic.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
+<builds>
+<build name="Clube da Meditacao [New]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/14102020/plugin.video.clubedameditacao.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/14102020/icon-clubemeditacao.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse addon necessita fix para manter ativo http://kodishteam.space/fix/"
+
+
+<builds>
+<build name="Lunnar Script [New]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18032020/script.luar.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18032020/icon.gif"
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse addon corrige erro do kodi ele bom para corrigir buffer vale o uso"
+
+<builds>
+<build name="BXL [Carivaldo]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15092020/plugin.video.BXL.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-bxl.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita ter Service Pack Instalado"
+
+<builds>
+<build name="Tecnolar [Kodishteam]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15092020/plugin.video.tecnolar.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-tecnolar.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessario aplicar fix seguido http://kodishteam.space/fix"
+
+<builds>
+<build name="AndreGuedes [Kodishteam]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15092020/plugin.video.andreguedes.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15092020/icon-andreguedes.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessario aplicar fix seguido http://kodishteam.space/fix"
+
+<builds>
+<build name="Corujinha SP [KodishTeam]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20062020/plugin.video.CorujinhaSP.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20062020/icon-corujinhasp.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+<builds>
+<build name="Radio Cat Osasco">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15062020/plugin.video.radiocatolicaosasco.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15062020/icon-radiocatolicadeosasco.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Versao White Label IPTV Tony Warley S-Block com protecao de versao"
+
+<builds>
+<build name="FDJ [FDJ]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12052020/addons.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12052020/icon.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"nnnn"
+
+<builds>
+<build name="Orbital [Iberika]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/07052020/plugin.video.OrbitalMusicRadio.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-OrbitalMusicRadio.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"nnnn"
+
+<builds>
+<build name="Dumont Fm">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/07052020/plugin.video.dummontfm.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-dummont.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"nnnn"
+
+<builds>
+<build name="Now[Catoal]">>
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/07052020/plugin.video.now_music.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/07052020/icon-now_music.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"nnnn"
+
+<builds>
+<build name="Cine Antiqua[Garfield]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/24032020/plugin.video.CineAntiqua.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/24032020/icon-CineAntiqua.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Cine Antiqua - filmes clássicos"
+
+<builds>
+<build name="NewSupremo [will]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18042020/plugin.video.newsupremo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18042020/icon-newsupremo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Necessita ter Elementum ou Elementum Drive"
+
+<builds>
+<build name="Circulo [DjGarfield]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/07032020/plugin.video.circulo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/07032020/icon-circulo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse canal é top"
+
+
+<builds>
+<build name="Ucolecionador">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/28012020/plugin.video.ucolecionador.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/28012020/icon-ucolecionador.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse addon e uma homenagem maior ucolecionador acessorios do mundo"
+
+<builds>
+<build name="Musica para Pets [Garfield]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/28122019/plugin.video.musicaparapets.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/28122019/icon-musicaparapets.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Red Music[Kodish]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04122019/plugin.video.redmusic.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04122019/icon-redmusic.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"ok"
+
+<builds>
+<build name="Brain Drain [Rock]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/16082019/brain.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/16082019/icon-brain.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Crime Scene [Rock]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/16082019/crime.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/16082019/icon-crime.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Xtasy D [XtasyDreamer]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/16082019/xtasyD.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/16082019/icon-xtasyD.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Ruivo[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04052019/plugin.video.ruivo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-ruivo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="RSA Music[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04052019/plugin.video.rsamusictv.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-rsamusictv.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Gospel Colection [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04052019/plugin.video.gospelcolection.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-gospelcolection.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Ser Eletrecista[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04052019/plugin.video.SerEletricista.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-SerEletricista.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Rock Clasico Colection[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/04052019/plugin.video.classicrockcolection.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/04052019/icon-classicrockcolection.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="DG Music [NEW]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/19032019/plugin.video.dgmusic.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/19032019/icon-dgmusic.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Love Music [NEW]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/19032019/plugin.video.lovemusic.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/19032019/icon-lovemusic.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Obin Music"
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/19032019/plugin.video.obinmusic.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/19032019/icon-obin.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Kpop Colection [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12022019/plugin.video.kpoplist.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12022019/icon-kpop.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Defenestrando Jogos [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12022019/plugin.video.DefenestrandoJogos.zip">
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12022019/icon-defenestrandojogos.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Cancao Nova [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/31012019/plugin.video.cacaonova.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/31012019/icon-cancaonova.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Discovery Snacks [New Kodish]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15012019/plugin.video.discoverysnacks.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15012019/icon-discovery.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Coleção CDs Gregoriano [New Kodish]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15012019/plugin.video.gregorianocds.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/15012019/icon-gregorianocds.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Espiritismo [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/15012019/plugin.video.espiritismo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/icon-esperitismo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Musica Classica [Kodish]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/29112018/plugin.video.musicaclassica.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/29112018/icon-musicclassica.png</icon>
+<fanart>https://images.pexels.com/photos/459203/pexels-photo-459203.jpeg?cs=srgb&dl=4k-wallpaper-architecture-art-459203.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Addon dedicado para fans de Musica Classica"
+
+<builds>
+<build name="Muramatsu Karaoke">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.MuramatsuKaraoke.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-MuramatsuKaraoke.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Acelerados">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.acelerados.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-acelerados.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Autoesporte">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.autoesporte.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-autoesporte.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Band News">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.bandnews.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-bandnews.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="BBC Brasil">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.bbcbrasil.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-bbc.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Jovem Pan">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.jovempan.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-jovenpan.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Me Poupe">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.mepoupe.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-mepoupe.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Pica-Pau Oficial">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.picapauyt.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-picapauyt.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Poligonautas">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.poligonautas.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-poligonautas.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Ponto Karaoke">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12112018/plugin.video.pontokaraoke.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12112018/icon-pontokaraoke.png</icon>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/simplycaz/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+
+<builds>
+<build name="KissFM [KodishTeam]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/22092018/plugin.video.kissfm.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-kiss.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+ame="Classic Rock Colection [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/30102018/plugin.video.classicrockcolection.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/30102018/icon-classicrockcolection.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Turma da Monica[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/21102018/plugin.video.turmadamonica.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/21102018/icon-turmadamonica.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="DesenhosJr[JonyRocha]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/11102018/plugin.video.desenhosjr.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/11102018/icon-desenhosjr.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+
+
+<builds>
+<build name="Kodish Colection[KodishTeam]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/22092018/plugin.video.kodishcolection.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-kodishclassics.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Prankstation[KodishTeam]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/22092018/plugin.video.prankstation.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-prankstation.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="ValeAPenaVerDeNovo[AutourAnon]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12092018/plugin.video.ValeApenaVerDeNovo.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12092018/icon-ValeApenaVerDeNovo.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Velhos Tempos [SergioGracas]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/12092018/plugin.video.VelhosTempos.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/12092018/icon-velhostempos.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Ign Brasil[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/05092018/plugin.video.ign.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/05092018/icon-ign.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Country Box (New)"
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/09082018/plugin.video.CountryBox.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/09082018/icon-09082018.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Star Vs Forças do Mal[New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/23072018/plugin.video.StarvsFocasdoMal.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/23072018/icon-star.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Vr Livre [SergioGraca]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/20072018/plugin.video.vrlivre.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/20072018/icon-vrlivre.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Ultimate Classic Rock [New Freeworld]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/13062018/plugin.video.master.zip</url>
+<version>KODI 19</version> 
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/13062018/icon.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Esse Apk somente para menbros grupo vip"
+
+<builds>
+<build name="History Channel [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/17032018/plugin.video.historychannel.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/17032018/icon-historychannel.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Canal da biblia [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/fabio-addons/14112017/plugin.video.canaldabiblia.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/14112017/icon-canalbiblia.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="History Channel [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/17032018/plugin.video.historychannel.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/17032018/icon-historychannel.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
+
+<builds>
+<build name="Canal da biblia [New]">
+<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/fabio-addons/14112017/plugin.video.canaldabiblia.zip</url>
+<version>KODI 19</version>
+<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/fabio-addons/14112017/icon-canalbiblia.png</icon>
+<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
+<description>Melhores addons é aqui</description>
+</build>
+</builds>"Não necessidade de fresh start"
