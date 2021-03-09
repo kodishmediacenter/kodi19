@@ -29,7 +29,7 @@
 
 
 
-	<build name="Blackarrow radiopt">>
+	<build name="Blackarrow radiopt">
 	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.blackarrowradiopt.zip</url>
 	<version>KODI 19</version>
 	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-blackarrowradiopt.png</icon>
@@ -39,7 +39,7 @@
 
 
 
-	<build name="Magus">>
+	<build name="Magus">
 	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/18012021/plugin.video.magusplay.zip</url>
 	<version>KODI 19</version>
 	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/18012021/icon-magusplay.png</icon>
@@ -49,7 +49,7 @@
 
 
 
-	<build name="Gaviao Play">>
+	<build name="Gaviao Play">
 	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/01042020/plugin.video.GAVIAOPLAY.zip</url>
 	<version>KODI 19</version>
 	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/01042020/icon-gaviao.png</icon>
