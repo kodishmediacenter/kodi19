@@ -9,15 +9,4 @@
 	<description>Melhores addons é aqui</description>
 	</build>
 		
-	<build name="Trato Feito">
-	<version>KODI 19</version>
-	<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.tratofeito.zip</url>
-	<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-tratofeito.jpg</fanart>
-	<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
-	<description>Melhores addons é aqui</description>
-	</build>
-		
-
-
-
 </builds>
