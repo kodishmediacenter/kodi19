@@ -2,8 +2,8 @@
 	<builds>
 
 		<build name="Radio Tops">
-		<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
 		<version>KODI 19</version>
+		<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.radiostops.zip</url>
 		<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-radiostop.png</icon>
 		<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 		<description>Melhores addons é aqui</description>
@@ -12,8 +12,8 @@
 
 
 		<build name="Trato Feito">
-		<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.tratofeito.zip</url>
 		<version>KODI 19</version>
+		<url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/27012021/plugin.video.tratofeito.zip</url>
 		<icon>https://raw.githubusercontent.com/kodishmediacenter/store/master/27012021/icon-tratofeito.jpg</fanart>
 		<fanart>https://cld.pt/dl/download/16a5f7e8-64d3-49b3-9008-22ba2747dc82/fanart.jpg</fanart>
 		<description>Melhores addons é aqui</description>
