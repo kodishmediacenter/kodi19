@@ -1,0 +1,32 @@
+{
+  "name": "PRO AUTO GROUP POSTER 2021 | Free tool BY JERA",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Free tool not for sale BY JERA",
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": {
+    "scripts": ["index.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon128.png"
+  },
+
+ 
+  "web_accessible_resources": ["index.html"],
+  "permissions": [
+    "storage",
+    "*://*.facebook.com/*",
+    "*://*.blogspot.com/*",
+    "tabs",
+    "http://*/",
+    "webRequest",
+    "webRequestBlocking",
+    "cookies"
+  ],
+  "content_security_policy": "script-src 'self'  'unsafe-eval' object-src 'self' https://cdnjs.cloudflare.com;  "
+}
