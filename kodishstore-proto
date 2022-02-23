@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "name": "Cine Vianna",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.cinevianna-matrix",
+      "url": "https://archive.org/download/plugin.video.cinevianna-matrix-3.0.0matrix/plugin.video.cinevianna-matrix-3.0.0%2Bmatrix.zip",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "https://archive.org/download/icon_20210816_202108/icon.png",
+      "adult": false,
+      "description": "Addon de Filmes e Séries. Necessário o elementum"
+    },
+     {
+      "name": "Cine Vianna",
+      "type": "addon",
+      "section": false,
+      "plugin": "plugin.video.cinevianna-matrix",
+      "url": "https://archive.org/download/plugin.video.cinevianna-matrix-3.0.0matrix/plugin.video.cinevianna-matrix-3.0.0%2Bmatrix.zip",
+      "repository": "",
+      "repositoryxml": "",
+      "repositoryurl": "",
+      "icon": "https://archive.org/download/icon_20210816_202108/icon.png",
+      "adult": false,
+      "description": "Addon de Filmes e Séries. Necessário o elementum"
+    }
+  ]
+}
