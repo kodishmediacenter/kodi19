@@ -1,0 +1,11 @@
+  <builds>
+  
+        <build name = "Contexto">
+            <version>1.0</version>
+            <url>https://raw.githubusercontent.com/kodishmediacenter/kodi19/master/addons/plugin.video.contexto.zip</url>
+            <icon>https://yt3.ggpht.com/ytc/AKedOLTuzV0fQZOdIYisYYt4TOvSyCYgSLss79mX5jXU=s800-c-k-c0x00ffffff-no-rj</icon>
+            <fanart>https://i.imgur.com/3QpDj4k.png</fanart>
+            <description>Addon Contexto</description>
+        </build>
+        
+ </builds>
